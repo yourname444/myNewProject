@@ -1,1 +1,2 @@
 First line of a new file two
+\n Second line of file two
